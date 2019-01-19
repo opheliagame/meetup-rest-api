@@ -1,0 +1,10 @@
+main/java/meetup/Application.class
+main/java/meetup/repository/InMemoryRepository.class
+main/java/meetup/repository/MeetupRepository.class
+main/java/meetup/controller/MeetupController.class
+main/java/meetup/resource/MeetupResource.class
+main/java/meetup/resource/MeetupResourceAssembler.class
+main/java/meetup/repository/IdGenerator.class
+main/java/meetup/domain/Meetup.class
+main/java/meetup/domain/Identifiable.class
+main/java/meetup/resource/ResourceAssembler.class
